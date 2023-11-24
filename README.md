@@ -1,7 +1,7 @@
 # Instacart-Python-Project
 Instacart online grocery store management system
 ## Introduction 
-Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.
+Instacart, an online grocery store that operates through an app., already has very good sales, but they want to uncover more information about their sales patterns.
 The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors.
 ## Objective
 The goal of the project is to 
