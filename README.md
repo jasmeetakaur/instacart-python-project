@@ -6,7 +6,7 @@ The Instacart stakeholders are most interested in the variety of customers in th
 ## Objective
 The goal of the project is to 
 * perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation.
-* By using targeted marketing strategy Instacart wants to target the right customer profiles with the appropriate products to boost their sales.
+* by using targeted marketing strategy Instacart wants to target the right customer profiles with the appropriate products to boost their sales.
 ## Key questions
 * What the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders?
 * Whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times?
