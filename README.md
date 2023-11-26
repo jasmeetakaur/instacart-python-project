@@ -1,4 +1,4 @@
-# Instacart-Python-Project
+# Instacart Grocery Basket Analysis Project
 Instacart online grocery store management system
 ## Introduction 
 Instacart, an online grocery store that operates through an app., already has very good sales, but they want to uncover more information about their sales patterns.
