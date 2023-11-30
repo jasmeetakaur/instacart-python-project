@@ -12,7 +12,7 @@ The goal of the project is to
 * Whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times?
 * Are there simpler price range groupings to help direct their efforts?
 * Are there certain types of products that are more popular than others?
-* Which departments have the highest frequency of product orders.
+* Which departments have the highest frequency of product orders?
 * What’s the distribution among customers in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 * Are there differences in ordering habits based on a customer’s loyalty status?
 
